@@ -1,7 +1,5 @@
-# my-11ty-template
-My starting point for new [11ty](https://www.11ty.dev/) projects. 11ty is a Jamstack static site generator that is simple to use/setup. It is easily hostable on Netlify, Github Pages or Cloudflare Pages, and countless other services.  
-
-No guarentees, but I do make an effort to make it generally useful for a new project. It should run anywhere you can run NodeJs If you have any questions, comments, or suggestions, please let open an issue and I will try to respond as soon as I can.  
+# Time Travel Agency
+This is the code for the website of a yet to be named time travel agency. In case it is not clear, this is a act of design fiction and storytelling, and should not be taken as a real time travel agency. (because you can't time travel yet right? :smiley: )
 
 ## Key Dependencies
 - nodejs and npm (whatever 11ty requires)
