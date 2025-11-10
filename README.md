@@ -7,7 +7,6 @@ This is the code for the website of a yet to be named time travel agency. In cas
 - @11ty/eleventy-plugin-webc
 
 ## Usage
-- Create a new repo using this as a template by clicking the `Use this template` button, or if you prefer there are some command line options here: https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com/#answer-62632065
 - Clone the repo to your local machine
 - Run `npm install` to install the dependencies
 - Run `npm run dev` to start the development server and watch for changes
